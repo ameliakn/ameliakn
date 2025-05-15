@@ -1,1 +1,2 @@
-- 👋 Hi, my name is Amelia, I'm a webdev trying to learn and grow in the industry, I work as back-end but worked as fullstack for a time and I use this github to put some study material/projects I doing. There's a lot of things I do just to recap how to use some techs and tutorials for new ones. I also do gamedev as a hobbie and plan to start some personal projects both as gamedev and webdev.
+- 👋 Hi, my name is Amelia, I work as software developer in fullstack, mainly with .net and typescript. I also like gamedev as a hobbie.
+- 
